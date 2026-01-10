@@ -1,24 +1,32 @@
-<center>About me</center>
+<h2 align="center">About Me</h2>
 
-<li>
-  <ol>I'm currrently studying...</ol>
-    Computer Science at Borough Manhattan Community College
-</li>
-<li>
-  <ol>I'm Currently learning about...</ol>
-   backend development, TypeScript, SQL, and AWS
-</li>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-![coding](https://github.com/user-attachments/assets/95dbfe61-ac68-4a24-9084-15ae484ead09)
+<ul>
+  <li><strong>I'm currently studying:</strong><br>
+      Computer Science at Borough Manhattan Community College
+  </li><br>
 
-<li>
-  <ol>Fun Fact:</ol>
-  I like movies, stock investment, and working out
-</li> 
+  <li><strong>I'm currently learning:</strong><br>
+      Backend Development, TypeScript, SQL, and AWS
+  </li><br>
 
-<h1>Language</h1>
-<img width="120" height="120" alt="python" src="https://github.com/user-attachments/assets/7f444717-9af8-487b-9160-f57420135aa3" />  <img width="250" height="282" alt="c++" src="https://github.com/user-attachments/assets/6b9cdda1-b021-4683-9892-76d253edf280" />
+  <li><strong>Fun Fact:</strong><br>
+      I like movies, stock investment, and working out
+  </li>
+</ul>
 
+    </td>
 
-
+    <td width="40%" align="center">
+      <img width="130" height="130" alt="python"
+        src="https://github.com/user-attachments/assets/7f444717-9af8-487b-9160-f57420135aa3" />
+      <br><br>
+      <img width="130" height="132" alt="c++"
+        src="https://github.com/user-attachments/assets/6b9cdda1-b021-4683-9892-76d253edf280" />
+    </td>
+  </tr>
+</table>
 
