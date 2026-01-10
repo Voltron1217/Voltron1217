@@ -2,6 +2,7 @@
 
 <table>
   <tr>
+    <!-- LEFT: TEXT -->
     <td width="60%" valign="top">
 
 <ul>
@@ -20,7 +21,14 @@
 
     </td>
 
+    <!-- RIGHT: GIF + IMAGES -->
     <td width="40%" align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/95dbfe61-ac68-4a24-9084-15ae484ead09"
+        alt="coding gif"
+        width="250"
+      />
+      <br><br>
       <img width="130" height="130" alt="python"
         src="https://github.com/user-attachments/assets/7f444717-9af8-487b-9160-f57420135aa3" />
       <br><br>
