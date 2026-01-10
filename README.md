@@ -5,7 +5,9 @@
   Computer Science at Borough Manhattan Community College </li> 
   
 <li> <ol>I'm currently learning about...
-</ol> backend development, TypeScript, SQL, and AWS                                                                                          ![coding](https://github.com/user-attachments/assets/95dbfe61-ac68-4a24-9084-15ae484ead09) 
+</ol> backend development, TypeScript, SQL, and AWS                                                                                         
+
+  ![coding](https://github.com/user-attachments/assets/95dbfe61-ac68-4a24-9084-15ae484ead09) 
 </li> 
 
 
