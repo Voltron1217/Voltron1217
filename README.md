@@ -10,7 +10,7 @@
   ![coding](https://github.com/user-attachments/assets/95dbfe61-ac68-4a24-9084-15ae484ead09) 
 </li> 
 
-
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/261c62a3-028d-4629-892e-8d974f14234a.jpeg?v=1787218111)](https://www.boot.dev/certificates/261c62a3-028d-4629-892e-8d974f14234a)
 
 <li> <ol>Fun Fact:</ol> 
   I like movies, stock investment, and working out </li> 
